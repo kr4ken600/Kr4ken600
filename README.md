@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Yonatan Ortiz 🤙 </h1>
 
 <p align="center">👽 A developer looking for challenges and experiences 👽</p>
-<p align="center">For now, taking a trainee role at <a href="https://axity.com" target="_blank">Axity México</a></p>
+<p align="center">For now, taking a junior consultant role at <a href="https://axity.com" target="_blank">Axity México</a></p>
 
 ***
 
 ### About Me 🤖
 
-- I am a recent graduate in computer science. 🎓
+- I have a bachelor's degree in computer science. 🎓
 - I am currently working as a Frontend Programmer 💼
 - I like to learn about everything, so I am not closed to learning new things 📚
 - My main programming language is python 🐍
